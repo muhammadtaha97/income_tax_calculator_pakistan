@@ -1,37 +1,31 @@
 Privacy Policy for "Income Tax Calculator Pakistan" Application
+This Privacy Policy explains how we handle your information when you use the "Income Tax Calculator Pakistan" mobile application ("the App").
 
-This Privacy Policy explains how we treat your information when you use the "Income Tax Calculator Pakistan" mobile application ("the App").
+Introduction
+We respect the privacy of our users. This Privacy Policy comprehensively discloses how our App does not access, collect, use, or share personal and sensitive user data.
+
+Information We Do Not Collect
+We do not collect or process any personal data, such as your name, email address, telephone number, or other personally identifiable information when you interact with our App.
+We do not track or collect any information about your movements within the App or information regarding your device or operating system.
+We do not collect any user data in the background or foreground of the App.
+Cookies
+Our App does not use cookies or similar tracking technologies to track activity or hold certain information.
+Third-party Services
+Our App does not include or offer third-party products or services.
+Children's Privacy
+Our App does not collect information from children under the age of 13, as we do not collect any user data at all.
+Data Handling Procedures
+As we do not collect any personal or sensitive user data, there are no data handling procedures applicable to our App.
+Data Retention and Deletion Policy
+Since no data is collected, we do not retain any user data. Consequently, there is no data deletion policy required.
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Any changes will be posted on this page, and you are advised to review this Privacy Policy periodically. Changes to this Privacy Policy are effective when posted on this page.
+
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, please contact us at the developer email address
+
+This Privacy Policy is accessible via a standard browser without any plug-ins or special handlers and is available on an active, publicly accessible, and non-geofenced URL.
 
 Disclaimer: This app does not represent a government entity and is not affiliated with or authorized by any government organization. All information provided is sourced from publicly available data and should be verified with official government resources.
 
-Introduction
-
-We respect the privacy of our users. This Privacy Policy explains how we do not collect, use, disclose, or otherwise process personal information in relation to our mobile application.
-
-Information We Do Not Collect
-
-When you interact with our App, we do not collect or process any personal data, such as your name, email address, telephone number, or other personally identifiable information.
-
-We do not track or collect any information about your movements within the App, or information regarding your device or operating system.
-
-We do not collect any user data in the background or foreground of the App.
-
-Cookies
-
-Our App does not use cookies or similar tracking technologies to track the activity on our Service and hold certain information.
-
-Third-party Services
-
-Our App does not include or offer third-party products or services.
-
-Children's Privacy
-
-Our App does not collect information from children under the age of 13 since we do not collect any user data at all.
-
-Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
-
-Contact Us
-
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+Note: This privacy policy is non-editable and holds reference to the developer/entity named in the app's Google Play listing or the app itself.
